@@ -14,11 +14,14 @@ Dengan demikian, Asana merupakan sebuah alat manajemen proyek yang populer yang 
 
 Asana menawarkan berbagai fitur yang memudahkan manajemen proyek. Berikut adalah beberapa fitur utama Asana:
 
-**Timeline** : Fitur timeline memungkinkan pengguna untuk membuat dan memetakan jadwal proyek yang sedang dikerjakan. Rencana proyek dapat dibagikan dengan rekan kerja dan jika pengguna telah memiliki rencana dalam bentuk spreadsheet, file tersebut dapat diimpor ke Asana dalam format CSV. Fitur ini dapat disesuaikan dengan metode manajemen proyek yang digunakan, termasuk metode kanban yang umum digunakan.
+**A.Timeline** : 
+Fitur timeline memungkinkan pengguna untuk membuat dan memetakan jadwal proyek yang sedang dikerjakan. Rencana proyek dapat dibagikan dengan rekan kerja dan jika pengguna telah memiliki rencana dalam bentuk spreadsheet, file tersebut dapat diimpor ke Asana dalam format CSV. Fitur ini dapat disesuaikan dengan metode manajemen proyek yang digunakan, termasuk metode kanban yang umum digunakan.
 
-**Portofolio** : Fitur portofolio membantu pengguna mengorganisir dan melacak semua proyek dalam satu halaman. Pengguna dapat melihat gambaran keseluruhan tentang kemajuan dan status proyek secara real-time.
+**B.Portofolio** : 
+Fitur portofolio membantu pengguna mengorganisir dan melacak semua proyek dalam satu halaman. Pengguna dapat melihat gambaran keseluruhan tentang kemajuan dan status proyek secara real-time.
 
-**Workload** : Fitur workload memberikan gambaran tentang kapasitas kerja individu. Hal ini membantu dalam memperkirakan apakah anggota tim memiliki beban kerja yang terlalu ringan atau terlalu berat. Melalui fitur ini, pengguna dapat menetapkan target untuk setiap tugas, baik dalam bentuk poin atau waktu.
+**C.Workload** : 
+Fitur workload memberikan gambaran tentang kapasitas kerja individu. Hal ini membantu dalam memperkirakan apakah anggota tim memiliki beban kerja yang terlalu ringan atau terlalu berat. Melalui fitur ini, pengguna dapat menetapkan target untuk setiap tugas, baik dalam bentuk poin atau waktu.
 
 Dengan adanya integrasi dengan berbagai aplikasi dan fitur-fitur tersebut, Asana memungkinkan pengguna untuk mengelola proyek dengan lebih efisien, berkolaborasi dengan tim, dan mengawasi kemajuan proyek secara terorganisir.
 
